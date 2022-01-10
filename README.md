@@ -1,0 +1,2 @@
+# jenkinsmaven
+maven build
